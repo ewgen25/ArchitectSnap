@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225050436030",
+    "project_id": "ailearning-17867",
+    "storage_bucket": "ailearning-17867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225050436030:android:b055252a7bcd745e50d9ef",
+        "android_client_info": {
+          "package_name": "com.example.archirectureobjects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225050436030-9ghssptjuh0t61fuvusl64uf8ctadeob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOFY0Mjoe-M1HXfH0C7rPmSRgM_qE2p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225050436030-9ghssptjuh0t61fuvusl64uf8ctadeob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

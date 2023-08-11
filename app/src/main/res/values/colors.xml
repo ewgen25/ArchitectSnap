@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#707070</color>
+    <color name="bistreColor">#443020</color>
+    <color name="almostBlack">#121212</color>
+    <color name="darkWhite">#f2f1f7</color>
+    <color name="richYellow">#d5921a</color>
+    <color name="grayishYellow">#cc925d</color>
+    <color name="theWatersOfBondiBeach">#0195ae</color>
+    <color name="azureBlue">#01556a</color>
+    <color name="aquamarineCrayola">#85c8de</color>
+    <color name="pohtiblack">#48000000</color>
+    <color name="darkGray">#2F4F4F</color>
+    <color name="pochtiwhite">#48FFFFFF</color>
+
+</resources>

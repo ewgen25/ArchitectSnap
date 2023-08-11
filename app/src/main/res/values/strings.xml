@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">archirectureObjects</string>
+    <string name="select">select from...</string>
+    <string name="camera">c\na\nm\ne\nr\na</string>
+    <string name="gallery">g\na\nl\nl\ne\nr\ny</string>
+    <string name="history">history</string>
+    <string name="back">back</string>
+    <string name="zinger">Zinger house</string>
+    <string name="tower">Duma tower</string>
+    <string name="theme">theme</string>
+    <string name="language">language</string>
+    <string name="search">search</string>
+    <string name="anichkov">Anichkov bridge</string>
+    <string name="hermitage">Hermitage</string>
+    <string name="moreinfo">more info</string>
+    <string name="onmap">on the map</string>
+    <string name="oops">oops...</string>
+    <string name="oopstext">It looks like you forgot to select a picture. Return to the main menu and choose how to upload the image.</string>
+    <string name="close">close</string>
+    <string name="backtomenu">back to menu</string>
+
+</resources>

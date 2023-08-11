@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">archirectureObjects</string>
+    <string name="select">выбрать из...</string>
+    <string name="camera">к\nа\nм\nе\nр\nа</string>
+    <string name="gallery">г\nа\nл\nе\nр\nе\nя</string>
+    <string name="history">история</string>
+    <string name="back">назад</string>
+    <string name="zinger">Дом Зингера</string>
+    <string name="tower">Думская башня</string>
+    <string name="theme">тема</string>
+    <string name="language">язык</string>
+    <string name="search">поиск</string>
+    <string name="anichkov">Аничков мост</string>
+    <string name="hermitage">Эрмитаж</string>
+    <string name="moreinfo">дополнительно</string>
+    <string name="onmap">на карте</string>
+    <string name="oops">ой...</string>
+    <string name="oopstext">кажется, вы забыли выбрать картинку. Вернитесь в главное меню и выберите способ загрузки изображения.</string>
+    <string name="close">закрыть</string>
+    <string name="backtomenu">в меню</string>
+</resources>
